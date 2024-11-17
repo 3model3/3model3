@@ -1,4 +1,4 @@
-- ⚡ Fun fact: ...Most Prgrammin languages are Turing Complete
+- ⚡ Fun fact: ...Most Programming languages are Turing Complete
 
 <!---
 3model3/3model3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
