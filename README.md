@@ -36,7 +36,7 @@ Prerequisites
 1. *Download the Project*
    - Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/3model3/cash-tracker.git
+   git clone https://github.com/3model3/cash_tracker.git
    ```
 
 2. *Set Up the Database*
@@ -71,7 +71,7 @@ Prerequisites
    
 4. *Launch the Application*
    - Place the project folder in the `htdocs` directory of your XAMPP installation.
-   - In your browser, go to `http://localhost/cash-tracker` to start using the application.
+   - In your browser, go to `http://localhost/cash_tracker` to start using the application.
 
 Usage
 
