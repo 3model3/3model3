@@ -9,11 +9,11 @@ This application is intended for personal use and is deployed locally using tool
 
 Features
 
-- *User Registration*: Users can create accounts to securely log in and track their transactions.
-- *Login & Logout*: Secure login system for users, allowing them to access their own financial data and log out.
+- *User Registration*: Users can create accounts to securely log in and track the transactions.
+- *Login & Logout*: Secure login system for users, allowing them to access the financial data and log out.
 - *Cash Tracker*: Users can record, view, and manage cash transactions including descriptions and amounts.
 - *Database Reporting*: The system generates reports based on the transaction data stored in the MySQL database.
-- *Secure Authentication*: Passwords are hashed for secure authentication, and users can only access their own transaction records.
+- *Secure Authentication*: Passwords are hashed for secure authentication, and users can only access the records of the transactions after loggin in.
 
 Technologies Used
 
