@@ -36,7 +36,7 @@ Prerequisites
 1. *Download the Project*
    - Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/3model3/cash_tracker.git
+   git clone (https://github.com/3model3/3model3).git
    ```
 
 2. *Set Up the Database*
