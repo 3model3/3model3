@@ -81,19 +81,9 @@ Usage
 - *Viewing Transactions*: Users can view a list of their recorded transactions.
 - *Generating Reports*: The database generates reports based on the transactions, which are displayed to the user.
 
-Contributing
-
-This is an open-source project, and contributions are welcome. If you'd like to contribute, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new pull request.
-
 License
 
-This project is open-source and is not licensed any one can use it I prove it for free. See the LICENSE file for more details.
+This project is open-source and is not licensed any one can use it I provide it for free.I only ask for anyone who uses it to please reference me in their work.
 
  Acknowledgements
 
